@@ -12,3 +12,12 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of ckicken](https://tse3.mm.bing.net/th/id/OIP.xkvv5r7A90kkyfDUOwxVfwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
